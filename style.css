@@ -467,23 +467,23 @@ q {
 }
 
 .one {
-	background-image: url("exam.jpg");
+	background-image: url("images/services/exam.jpg");
 }
 
 .two {
-	background-image: url("radiograph.jpg");
+	background-image: url("images/services/radiograph.jpg");
 }
 
 .three {
-	background-image: url("cleaning.jpg");
+	background-image: url("images/services/cleaning.jpg");
 }
 
 .four {
-	background-image: url("filling.jpg");
+	background-image: url("images/services/filling.jpg");
 }
 
 .five {
-	background-image: url("crown.jpg");
+	background-image: url("images/services/crown.jpg");
 }
 
 #services h2 {
